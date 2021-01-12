@@ -1,0 +1,16 @@
+.card-one{
+    border: 0;
+}
+.card-two{
+    border: 0;
+    background-color: white;
+}
+
+.image-custom img{
+    width: 80px;
+}
+
+.slide-custon .carousel-item{
+    background-color: rgb(196, 140, 140);
+    border-radius: 30px;
+}
